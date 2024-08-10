@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "name": "blogify-main",
+  "version": "1.0.0",
+  "description": "GetBlogged is a versatile web application designed to empower you to craft and share your thoughts, stories, and ideas through captivating and personalized blog posts.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
